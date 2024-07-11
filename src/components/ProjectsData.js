@@ -50,7 +50,7 @@ const ProjectsData = [
     // demo: "https://car-rental-application.vercel.app",
   },
   {
-    id: "8",
+    id: "6",
     name: "Coming Soon!!",
     // image: "./blog-app.png",
     // icons: [TbBrandNextjs, BiLogoTailwindCss, BiLogoMongodb,TbBrandPrisma],
